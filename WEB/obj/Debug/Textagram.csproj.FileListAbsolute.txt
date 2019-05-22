@@ -1,0 +1,1036 @@
+D:\EPAM\Project\Textagram\Textagram\bin\Textagram.dll.config
+D:\EPAM\Project\Textagram\Textagram\bin\Textagram.dll
+D:\EPAM\Project\Textagram\Textagram\bin\Textagram.pdb
+D:\EPAM\Project\Textagram\Textagram\bin\roslyn\csc.exe
+D:\EPAM\Project\Textagram\Textagram\bin\roslyn\csc.exe.config
+D:\EPAM\Project\Textagram\Textagram\bin\roslyn\csc.rsp
+D:\EPAM\Project\Textagram\Textagram\bin\roslyn\csi.exe
+D:\EPAM\Project\Textagram\Textagram\bin\roslyn\csi.exe.config
+D:\EPAM\Project\Textagram\Textagram\bin\roslyn\csi.rsp
+D:\EPAM\Project\Textagram\Textagram\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\EPAM\Project\Textagram\Textagram\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\EPAM\Project\Textagram\Textagram\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\EPAM\Project\Textagram\Textagram\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\EPAM\Project\Textagram\Textagram\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\EPAM\Project\Textagram\Textagram\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\EPAM\Project\Textagram\Textagram\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\EPAM\Project\Textagram\Textagram\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\EPAM\Project\Textagram\Textagram\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\EPAM\Project\Textagram\Textagram\bin\roslyn\Microsoft.Managed.Core.targets
+D:\EPAM\Project\Textagram\Textagram\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\EPAM\Project\Textagram\Textagram\bin\roslyn\System.AppContext.dll
+D:\EPAM\Project\Textagram\Textagram\bin\roslyn\System.Collections.Immutable.dll
+D:\EPAM\Project\Textagram\Textagram\bin\roslyn\System.Console.dll
+D:\EPAM\Project\Textagram\Textagram\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\EPAM\Project\Textagram\Textagram\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\EPAM\Project\Textagram\Textagram\bin\roslyn\System.IO.Compression.dll
+D:\EPAM\Project\Textagram\Textagram\bin\roslyn\System.IO.FileSystem.dll
+D:\EPAM\Project\Textagram\Textagram\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\EPAM\Project\Textagram\Textagram\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\EPAM\Project\Textagram\Textagram\bin\roslyn\System.IO.Pipes.dll
+D:\EPAM\Project\Textagram\Textagram\bin\roslyn\System.Reflection.Metadata.dll
+D:\EPAM\Project\Textagram\Textagram\bin\roslyn\System.Security.AccessControl.dll
+D:\EPAM\Project\Textagram\Textagram\bin\roslyn\System.Security.Claims.dll
+D:\EPAM\Project\Textagram\Textagram\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\EPAM\Project\Textagram\Textagram\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\EPAM\Project\Textagram\Textagram\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\EPAM\Project\Textagram\Textagram\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\EPAM\Project\Textagram\Textagram\bin\roslyn\System.Security.Principal.Windows.dll
+D:\EPAM\Project\Textagram\Textagram\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\EPAM\Project\Textagram\Textagram\bin\roslyn\System.ValueTuple.dll
+D:\EPAM\Project\Textagram\Textagram\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\EPAM\Project\Textagram\Textagram\bin\roslyn\System.Xml.XmlDocument.dll
+D:\EPAM\Project\Textagram\Textagram\bin\roslyn\System.Xml.XPath.dll
+D:\EPAM\Project\Textagram\Textagram\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\EPAM\Project\Textagram\Textagram\bin\roslyn\vbc.exe
+D:\EPAM\Project\Textagram\Textagram\bin\roslyn\vbc.exe.config
+D:\EPAM\Project\Textagram\Textagram\bin\roslyn\vbc.rsp
+D:\EPAM\Project\Textagram\Textagram\bin\roslyn\VBCSCompiler.exe
+D:\EPAM\Project\Textagram\Textagram\bin\roslyn\VBCSCompiler.exe.config
+D:\EPAM\Project\Textagram\Textagram\bin\Antlr3.Runtime.dll
+D:\EPAM\Project\Textagram\Textagram\bin\EntityFramework.dll
+D:\EPAM\Project\Textagram\Textagram\bin\EntityFramework.SqlServer.dll
+D:\EPAM\Project\Textagram\Textagram\bin\Microsoft.AspNet.Identity.Core.dll
+D:\EPAM\Project\Textagram\Textagram\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\EPAM\Project\Textagram\Textagram\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\EPAM\Project\Textagram\Textagram\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\EPAM\Project\Textagram\Textagram\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\EPAM\Project\Textagram\Textagram\bin\Microsoft.Owin.dll
+D:\EPAM\Project\Textagram\Textagram\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\EPAM\Project\Textagram\Textagram\bin\Microsoft.Owin.Security.Cookies.dll
+D:\EPAM\Project\Textagram\Textagram\bin\Microsoft.Owin.Security.dll
+D:\EPAM\Project\Textagram\Textagram\bin\Microsoft.Owin.Security.Facebook.dll
+D:\EPAM\Project\Textagram\Textagram\bin\Microsoft.Owin.Security.Google.dll
+D:\EPAM\Project\Textagram\Textagram\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\EPAM\Project\Textagram\Textagram\bin\Microsoft.Owin.Security.OAuth.dll
+D:\EPAM\Project\Textagram\Textagram\bin\Microsoft.Owin.Security.Twitter.dll
+D:\EPAM\Project\Textagram\Textagram\bin\Microsoft.Web.Infrastructure.dll
+D:\EPAM\Project\Textagram\Textagram\bin\Newtonsoft.Json.dll
+D:\EPAM\Project\Textagram\Textagram\bin\Owin.dll
+D:\EPAM\Project\Textagram\Textagram\bin\System.Diagnostics.DiagnosticSource.dll
+D:\EPAM\Project\Textagram\Textagram\bin\System.Net.Http.Formatting.dll
+D:\EPAM\Project\Textagram\Textagram\bin\System.Web.Helpers.dll
+D:\EPAM\Project\Textagram\Textagram\bin\System.Web.Http.dll
+D:\EPAM\Project\Textagram\Textagram\bin\System.Web.Http.Owin.dll
+D:\EPAM\Project\Textagram\Textagram\bin\System.Web.Http.WebHost.dll
+D:\EPAM\Project\Textagram\Textagram\bin\System.Web.Mvc.dll
+D:\EPAM\Project\Textagram\Textagram\bin\System.Web.Optimization.dll
+D:\EPAM\Project\Textagram\Textagram\bin\System.Web.Razor.dll
+D:\EPAM\Project\Textagram\Textagram\bin\System.Web.WebPages.Deployment.dll
+D:\EPAM\Project\Textagram\Textagram\bin\System.Web.WebPages.dll
+D:\EPAM\Project\Textagram\Textagram\bin\System.Web.WebPages.Razor.dll
+D:\EPAM\Project\Textagram\Textagram\bin\WebGrease.dll
+D:\EPAM\Project\Textagram\Textagram\bin\Newtonsoft.Json.xml
+D:\EPAM\Project\Textagram\Textagram\bin\System.Net.Http.Formatting.xml
+D:\EPAM\Project\Textagram\Textagram\bin\System.Web.Helpers.xml
+D:\EPAM\Project\Textagram\Textagram\bin\System.Web.Http.xml
+D:\EPAM\Project\Textagram\Textagram\bin\System.Web.Http.WebHost.xml
+D:\EPAM\Project\Textagram\Textagram\bin\System.Web.Mvc.xml
+D:\EPAM\Project\Textagram\Textagram\bin\System.Web.Optimization.xml
+D:\EPAM\Project\Textagram\Textagram\bin\System.Web.Razor.xml
+D:\EPAM\Project\Textagram\Textagram\bin\System.Web.WebPages.xml
+D:\EPAM\Project\Textagram\Textagram\bin\System.Web.WebPages.Deployment.xml
+D:\EPAM\Project\Textagram\Textagram\bin\System.Web.WebPages.Razor.xml
+D:\EPAM\Project\Textagram\Textagram\bin\Antlr3.Runtime.pdb
+D:\EPAM\Project\Textagram\Textagram\bin\EntityFramework.xml
+D:\EPAM\Project\Textagram\Textagram\bin\EntityFramework.SqlServer.xml
+D:\EPAM\Project\Textagram\Textagram\bin\Microsoft.AspNet.Identity.Core.xml
+D:\EPAM\Project\Textagram\Textagram\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\EPAM\Project\Textagram\Textagram\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\EPAM\Project\Textagram\Textagram\bin\Microsoft.Owin.xml
+D:\EPAM\Project\Textagram\Textagram\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\EPAM\Project\Textagram\Textagram\bin\Microsoft.Owin.Security.xml
+D:\EPAM\Project\Textagram\Textagram\bin\Microsoft.Owin.Security.Facebook.xml
+D:\EPAM\Project\Textagram\Textagram\bin\Microsoft.Owin.Security.Cookies.xml
+D:\EPAM\Project\Textagram\Textagram\bin\Microsoft.Owin.Security.Google.xml
+D:\EPAM\Project\Textagram\Textagram\bin\Microsoft.Owin.Security.Twitter.xml
+D:\EPAM\Project\Textagram\Textagram\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\EPAM\Project\Textagram\Textagram\bin\Microsoft.Owin.Security.OAuth.xml
+D:\EPAM\Project\Textagram\Textagram\bin\System.Web.Http.Owin.xml
+D:\EPAM\Project\Textagram\Textagram\bin\System.Diagnostics.DiagnosticSource.xml
+D:\EPAM\Project\Textagram\Textagram\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\EPAM\Project\Textagram\Textagram\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\EPAM\Project\Textagram\Textagram\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\EPAM\Project\Textagram\Textagram\bin\ru\System.Web.Helpers.resources.dll
+D:\EPAM\Project\Textagram\Textagram\bin\ru\System.Web.Http.resources.dll
+D:\EPAM\Project\Textagram\Textagram\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\EPAM\Project\Textagram\Textagram\bin\ru\System.Web.Mvc.resources.dll
+D:\EPAM\Project\Textagram\Textagram\bin\ru\System.Web.Optimization.resources.dll
+D:\EPAM\Project\Textagram\Textagram\bin\ru\System.Web.Razor.resources.dll
+D:\EPAM\Project\Textagram\Textagram\bin\ru\System.Web.WebPages.resources.dll
+D:\EPAM\Project\Textagram\Textagram\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\EPAM\Project\Textagram\Textagram\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\EPAM\Project\Textagram\Textagram\bin\ru\EntityFramework.resources.dll
+D:\EPAM\Project\Textagram\Textagram\bin\ru\EntityFramework.SqlServer.resources.dll
+D:\EPAM\Project\Textagram\Textagram\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+D:\EPAM\Project\Textagram\Textagram\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\EPAM\Project\Textagram\Textagram\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\EPAM\Project\Textagram\Textagram\bin\ru\System.Web.Http.Owin.resources.dll
+D:\EPAM\Project\Textagram\Textagram\obj\Debug\Textagram.csprojAssemblyReference.cache
+D:\EPAM\Project\Textagram\Textagram\obj\Debug\Textagram.csproj.CoreCompileInputs.cache
+D:\EPAM\Project\Textagram\Textagram\obj\Debug\Textagram.csproj.CopyComplete
+D:\EPAM\Project\Textagram\Textagram\obj\Debug\Textagram.dll
+D:\EPAM\Project\Textagram\Textagram\obj\Debug\Textagram.pdb
+D:\EPAM\Project\Textagram\Textagram\bin\BLL.dll
+D:\EPAM\Project\Textagram\Textagram\bin\DAL.dll
+D:\EPAM\Project\Textagram\Textagram\bin\AutoMapper.dll
+D:\EPAM\Project\Textagram\Textagram\bin\System.ValueTuple.dll
+D:\EPAM\Project\Textagram\Textagram\bin\BLL.pdb
+D:\EPAM\Project\Textagram\Textagram\bin\DAL.pdb
+D:\EPAM\Project\Textagram\Textagram\bin\DAL.dll.config
+D:\EPAM\Project\Textagram\Textagram\bin\AutoMapper.pdb
+D:\EPAM\Project\Textagram\Textagram\bin\AutoMapper.xml
+D:\EPAM\Project\Textagram\Textagram\bin\System.ValueTuple.xml
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\Textagram.dll.config
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\Textagram.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\Textagram.pdb
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\roslyn\csc.exe
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\roslyn\csc.exe.config
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\roslyn\csc.rsp
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\roslyn\csi.exe
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\roslyn\csi.exe.config
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\roslyn\csi.rsp
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\roslyn\Microsoft.Managed.Core.targets
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\roslyn\System.AppContext.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\roslyn\System.Collections.Immutable.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\roslyn\System.Console.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\roslyn\System.IO.Compression.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\roslyn\System.IO.FileSystem.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\roslyn\System.IO.Pipes.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\roslyn\System.Reflection.Metadata.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\roslyn\System.Security.AccessControl.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\roslyn\System.Security.Claims.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\roslyn\System.Security.Principal.Windows.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\roslyn\System.ValueTuple.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\roslyn\System.Xml.XmlDocument.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\roslyn\System.Xml.XPath.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\roslyn\vbc.exe
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\roslyn\vbc.exe.config
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\roslyn\vbc.rsp
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\roslyn\VBCSCompiler.exe
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\roslyn\VBCSCompiler.exe.config
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\Antlr3.Runtime.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\BLL.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\DAL.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\EntityFramework.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\EntityFramework.SqlServer.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\Microsoft.AspNet.Identity.Core.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\Microsoft.Owin.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\Microsoft.Owin.Security.Cookies.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\Microsoft.Owin.Security.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\Microsoft.Owin.Security.Facebook.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\Microsoft.Owin.Security.Google.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\Microsoft.Owin.Security.OAuth.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\Microsoft.Owin.Security.Twitter.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\Microsoft.Web.Infrastructure.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\Newtonsoft.Json.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\Owin.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\System.Diagnostics.DiagnosticSource.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\System.Net.Http.Formatting.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\System.Web.Helpers.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\System.Web.Http.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\System.Web.Http.Owin.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\System.Web.Http.WebHost.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\System.Web.Mvc.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\System.Web.Optimization.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\System.Web.Razor.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\System.Web.WebPages.Deployment.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\System.Web.WebPages.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\System.Web.WebPages.Razor.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\WebGrease.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\AutoMapper.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\System.ValueTuple.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\BLL.pdb
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\DAL.pdb
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\DAL.dll.config
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\Newtonsoft.Json.xml
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\System.Net.Http.Formatting.xml
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\System.Web.Helpers.xml
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\System.Web.Http.xml
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\System.Web.Http.WebHost.xml
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\System.Web.Mvc.xml
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\System.Web.Optimization.xml
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\System.Web.Razor.xml
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\System.Web.WebPages.xml
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\System.Web.WebPages.Deployment.xml
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\System.Web.WebPages.Razor.xml
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\Antlr3.Runtime.pdb
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\EntityFramework.xml
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\EntityFramework.SqlServer.xml
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\Microsoft.AspNet.Identity.Core.xml
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\Microsoft.Owin.xml
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\Microsoft.Owin.Security.xml
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\Microsoft.Owin.Security.Facebook.xml
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\Microsoft.Owin.Security.Cookies.xml
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\Microsoft.Owin.Security.Google.xml
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\Microsoft.Owin.Security.Twitter.xml
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\Microsoft.Owin.Security.OAuth.xml
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\System.Web.Http.Owin.xml
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\System.Diagnostics.DiagnosticSource.xml
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\AutoMapper.pdb
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\AutoMapper.xml
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\System.ValueTuple.xml
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\ru\System.Web.Helpers.resources.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\ru\System.Web.Http.resources.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\ru\System.Web.Mvc.resources.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\ru\System.Web.Optimization.resources.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\ru\System.Web.Razor.resources.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\ru\System.Web.WebPages.resources.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\ru\EntityFramework.resources.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\ru\EntityFramework.SqlServer.resources.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\bin\ru\System.Web.Http.Owin.resources.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\obj\Debug\Textagram.csprojAssemblyReference.cache
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\obj\Debug\Textagram.csproj.CoreCompileInputs.cache
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\obj\Debug\Textagram.csproj.CopyComplete
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\obj\Debug\Textagram.dll
+D:\EPAM\Копії проекту\Project\Textagram\Textagram\obj\Debug\Textagram.pdb
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\Textagram.dll.config
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\Textagram.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\Textagram.pdb
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\roslyn\csc.exe
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\roslyn\csc.exe.config
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\roslyn\csc.rsp
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\roslyn\csi.exe
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\roslyn\csi.exe.config
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\roslyn\csi.rsp
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\roslyn\Microsoft.Managed.Core.targets
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\roslyn\System.AppContext.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\roslyn\System.Collections.Immutable.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\roslyn\System.Console.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\roslyn\System.IO.Compression.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\roslyn\System.IO.FileSystem.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\roslyn\System.IO.Pipes.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\roslyn\System.Reflection.Metadata.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\roslyn\System.Security.AccessControl.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\roslyn\System.Security.Claims.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\roslyn\System.Security.Principal.Windows.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\roslyn\System.ValueTuple.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\roslyn\System.Xml.XmlDocument.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\roslyn\System.Xml.XPath.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\roslyn\vbc.exe
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\roslyn\vbc.exe.config
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\roslyn\vbc.rsp
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\roslyn\VBCSCompiler.exe
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\roslyn\VBCSCompiler.exe.config
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\Antlr3.Runtime.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\BLL.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\DAL.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\EntityFramework.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\EntityFramework.SqlServer.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\Microsoft.AspNet.Identity.Core.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\Microsoft.Owin.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\Microsoft.Owin.Security.Cookies.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\Microsoft.Owin.Security.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\Microsoft.Owin.Security.Facebook.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\Microsoft.Owin.Security.Google.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\Microsoft.Owin.Security.OAuth.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\Microsoft.Owin.Security.Twitter.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\Microsoft.Web.Infrastructure.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\Newtonsoft.Json.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\Owin.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\System.Diagnostics.DiagnosticSource.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\System.Net.Http.Formatting.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\System.Web.Helpers.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\System.Web.Http.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\System.Web.Http.Owin.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\System.Web.Http.WebHost.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\System.Web.Mvc.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\System.Web.Optimization.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\System.Web.Razor.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\System.Web.WebPages.Deployment.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\System.Web.WebPages.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\System.Web.WebPages.Razor.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\WebGrease.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\AutoMapper.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\System.ValueTuple.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\BLL.pdb
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\DAL.pdb
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\DAL.dll.config
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\Newtonsoft.Json.xml
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\System.Net.Http.Formatting.xml
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\System.Web.Helpers.xml
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\System.Web.Http.xml
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\System.Web.Http.WebHost.xml
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\System.Web.Mvc.xml
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\System.Web.Optimization.xml
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\System.Web.Razor.xml
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\System.Web.WebPages.xml
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\System.Web.WebPages.Deployment.xml
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\System.Web.WebPages.Razor.xml
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\Antlr3.Runtime.pdb
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\EntityFramework.xml
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\EntityFramework.SqlServer.xml
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\Microsoft.AspNet.Identity.Core.xml
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\Microsoft.Owin.xml
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\Microsoft.Owin.Security.xml
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\Microsoft.Owin.Security.Facebook.xml
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\Microsoft.Owin.Security.Cookies.xml
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\Microsoft.Owin.Security.Google.xml
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\Microsoft.Owin.Security.Twitter.xml
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\Microsoft.Owin.Security.OAuth.xml
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\System.Web.Http.Owin.xml
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\System.Diagnostics.DiagnosticSource.xml
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\AutoMapper.pdb
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\AutoMapper.xml
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\System.ValueTuple.xml
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\ru\System.Web.Helpers.resources.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\ru\System.Web.Http.resources.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\ru\System.Web.Mvc.resources.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\ru\System.Web.Optimization.resources.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\ru\System.Web.Razor.resources.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\ru\System.Web.WebPages.resources.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\ru\EntityFramework.resources.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\ru\EntityFramework.SqlServer.resources.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\bin\ru\System.Web.Http.Owin.resources.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\obj\Debug\Textagram.csprojAssemblyReference.cache
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\obj\Debug\Textagram.csproj.CoreCompileInputs.cache
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\obj\Debug\Textagram.csproj.CopyComplete
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\obj\Debug\Textagram.dll
+D:\EPAM\Копії проекту\ProjectTryToAddAuth\Textagram\Textagram\obj\Debug\Textagram.pdb
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\obj\Debug\Textagram.csprojAssemblyReference.cache
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\obj\Debug\Textagram.csproj.CoreCompileInputs.cache
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\obj\Debug\Textagram.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\obj\Debug\Textagram.pdb
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\Textagram.dll.config
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\Textagram.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\Textagram.pdb
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\roslyn\csc.exe
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\roslyn\csc.exe.config
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\roslyn\csc.rsp
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\roslyn\csi.exe
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\roslyn\csi.exe.config
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\roslyn\csi.rsp
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\roslyn\Microsoft.Managed.Core.targets
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\roslyn\System.AppContext.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\roslyn\System.Collections.Immutable.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\roslyn\System.Console.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\roslyn\System.IO.Compression.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\roslyn\System.IO.FileSystem.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\roslyn\System.IO.Pipes.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\roslyn\System.Reflection.Metadata.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\roslyn\System.Security.AccessControl.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\roslyn\System.Security.Claims.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\roslyn\System.Security.Principal.Windows.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\roslyn\System.ValueTuple.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\roslyn\System.Xml.XmlDocument.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\roslyn\System.Xml.XPath.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\roslyn\vbc.exe
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\roslyn\vbc.exe.config
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\roslyn\vbc.rsp
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\roslyn\VBCSCompiler.exe
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\roslyn\VBCSCompiler.exe.config
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\Antlr3.Runtime.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\BLL.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\DAL.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\EntityFramework.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\EntityFramework.SqlServer.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\Microsoft.AspNet.Identity.Core.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\Microsoft.Owin.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\Microsoft.Owin.Security.Cookies.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\Microsoft.Owin.Security.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\Microsoft.Owin.Security.Facebook.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\Microsoft.Owin.Security.Google.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\Microsoft.Owin.Security.OAuth.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\Microsoft.Owin.Security.Twitter.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\Microsoft.Web.Infrastructure.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\Newtonsoft.Json.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\Owin.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\System.Diagnostics.DiagnosticSource.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\System.Net.Http.Formatting.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\System.Web.Helpers.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\System.Web.Http.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\System.Web.Http.Owin.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\System.Web.Http.WebHost.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\System.Web.Mvc.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\System.Web.Optimization.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\System.Web.Razor.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\System.Web.WebPages.Deployment.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\System.Web.WebPages.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\System.Web.WebPages.Razor.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\WebGrease.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\AutoMapper.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\System.ValueTuple.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\BLL.pdb
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\DAL.pdb
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\DAL.dll.config
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\Newtonsoft.Json.xml
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\System.Net.Http.Formatting.xml
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\System.Web.Helpers.xml
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\System.Web.Http.xml
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\System.Web.Http.WebHost.xml
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\System.Web.Mvc.xml
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\System.Web.Optimization.xml
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\System.Web.Razor.xml
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\System.Web.WebPages.xml
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\System.Web.WebPages.Deployment.xml
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\System.Web.WebPages.Razor.xml
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\Antlr3.Runtime.pdb
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\EntityFramework.xml
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\EntityFramework.SqlServer.xml
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\Microsoft.AspNet.Identity.Core.xml
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\Microsoft.Owin.xml
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\Microsoft.Owin.Security.xml
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\Microsoft.Owin.Security.Facebook.xml
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\Microsoft.Owin.Security.Cookies.xml
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\Microsoft.Owin.Security.Google.xml
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\Microsoft.Owin.Security.Twitter.xml
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\Microsoft.Owin.Security.OAuth.xml
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\System.Web.Http.Owin.xml
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\System.Diagnostics.DiagnosticSource.xml
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\AutoMapper.pdb
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\AutoMapper.xml
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\System.ValueTuple.xml
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\ru\System.Web.Helpers.resources.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\ru\System.Web.Http.resources.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\ru\System.Web.Mvc.resources.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\ru\System.Web.Optimization.resources.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\ru\System.Web.Razor.resources.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\ru\System.Web.WebPages.resources.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\ru\EntityFramework.resources.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\ru\EntityFramework.SqlServer.resources.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\ru\System.Web.Http.Owin.resources.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\obj\Debug\Textagram.csproj.CopyComplete
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\System.Web.Cors.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\System.Web.Http.Cors.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\System.Web.Http.Cors.xml
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\Microsoft.Owin.Cors.dll
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\Microsoft.Owin.Cors.xml
+D:\EPAM\Копії проекту\Project15.04.19\Textagram\Textagram\bin\ru\Microsoft.Owin.resources.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\Textagram.dll.config
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\Textagram.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\Textagram.pdb
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\roslyn\csc.exe
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\roslyn\csc.exe.config
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\roslyn\csc.rsp
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\roslyn\csi.exe
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\roslyn\csi.exe.config
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\roslyn\csi.rsp
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\roslyn\Microsoft.Managed.Core.targets
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\roslyn\System.AppContext.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\roslyn\System.Collections.Immutable.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\roslyn\System.Console.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\roslyn\System.IO.Compression.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\roslyn\System.IO.FileSystem.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\roslyn\System.IO.Pipes.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\roslyn\System.Reflection.Metadata.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\roslyn\System.Security.AccessControl.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\roslyn\System.Security.Claims.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\roslyn\System.Security.Principal.Windows.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\roslyn\System.ValueTuple.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\roslyn\System.Xml.XmlDocument.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\roslyn\System.Xml.XPath.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\roslyn\vbc.exe
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\roslyn\vbc.exe.config
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\roslyn\vbc.rsp
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\roslyn\VBCSCompiler.exe
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\roslyn\VBCSCompiler.exe.config
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\Antlr3.Runtime.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\BLL.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\DAL.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\EntityFramework.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\EntityFramework.SqlServer.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\Microsoft.AspNet.Identity.Core.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\Microsoft.Owin.Cors.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\Microsoft.Owin.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\Microsoft.Owin.Security.Cookies.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\Microsoft.Owin.Security.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\Microsoft.Owin.Security.Facebook.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\Microsoft.Owin.Security.Google.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\Microsoft.Owin.Security.OAuth.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\Microsoft.Owin.Security.Twitter.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\Microsoft.Web.Infrastructure.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\Newtonsoft.Json.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\Owin.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\System.Diagnostics.DiagnosticSource.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\System.Net.Http.Formatting.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\System.Web.Cors.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\System.Web.Helpers.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\System.Web.Http.Cors.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\System.Web.Http.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\System.Web.Http.Owin.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\System.Web.Http.WebHost.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\System.Web.Mvc.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\System.Web.Optimization.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\System.Web.Razor.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\System.Web.WebPages.Deployment.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\System.Web.WebPages.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\System.Web.WebPages.Razor.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\WebGrease.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\AutoMapper.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\System.ValueTuple.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\BLL.pdb
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\DAL.pdb
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\DAL.dll.config
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\Microsoft.Owin.xml
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\Microsoft.Owin.Cors.xml
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\System.Net.Http.Formatting.xml
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\System.Web.Http.xml
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\System.Web.Http.Cors.xml
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\Newtonsoft.Json.xml
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\System.Web.Helpers.xml
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\System.Web.Http.WebHost.xml
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\System.Web.Mvc.xml
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\System.Web.Optimization.xml
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\System.Web.Razor.xml
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\System.Web.WebPages.xml
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\System.Web.WebPages.Deployment.xml
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\System.Web.WebPages.Razor.xml
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\Antlr3.Runtime.pdb
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\EntityFramework.xml
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\EntityFramework.SqlServer.xml
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\Microsoft.AspNet.Identity.Core.xml
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\Microsoft.Owin.Security.xml
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\Microsoft.Owin.Security.Facebook.xml
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\Microsoft.Owin.Security.Cookies.xml
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\Microsoft.Owin.Security.Google.xml
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\Microsoft.Owin.Security.Twitter.xml
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\Microsoft.Owin.Security.OAuth.xml
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\System.Web.Http.Owin.xml
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\System.Diagnostics.DiagnosticSource.xml
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\AutoMapper.pdb
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\AutoMapper.xml
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\System.ValueTuple.xml
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\ru\Microsoft.Owin.resources.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\ru\System.Web.Http.resources.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\ru\System.Web.Helpers.resources.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\ru\System.Web.Mvc.resources.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\ru\System.Web.Optimization.resources.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\ru\System.Web.Razor.resources.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\ru\System.Web.WebPages.resources.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\ru\EntityFramework.resources.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\ru\EntityFramework.SqlServer.resources.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\ru\System.Web.Http.Owin.resources.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\obj\Debug\Textagram.csprojAssemblyReference.cache
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\obj\Debug\Textagram.csproj.CoreCompileInputs.cache
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\obj\Debug\Textagram.csproj.CopyComplete
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\obj\Debug\Textagram.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\obj\Debug\Textagram.pdb
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\Ninject.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\Util.dll
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\Util.pdb
+D:\EPAM\Копії проекту\Project17.04.19\Textagram\Textagram\bin\Ninject.xml
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\Textagram.dll.config
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\Textagram.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\Textagram.pdb
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\roslyn\csc.exe
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\roslyn\csc.exe.config
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\roslyn\csc.rsp
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\roslyn\csi.exe
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\roslyn\csi.exe.config
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\roslyn\csi.rsp
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\roslyn\Microsoft.Managed.Core.targets
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\roslyn\System.AppContext.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\roslyn\System.Collections.Immutable.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\roslyn\System.Console.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\roslyn\System.IO.Compression.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\roslyn\System.IO.FileSystem.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\roslyn\System.IO.Pipes.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\roslyn\System.Reflection.Metadata.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\roslyn\System.Security.AccessControl.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\roslyn\System.Security.Claims.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\roslyn\System.Security.Principal.Windows.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\roslyn\System.ValueTuple.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\roslyn\System.Xml.XmlDocument.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\roslyn\System.Xml.XPath.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\roslyn\vbc.exe
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\roslyn\vbc.exe.config
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\roslyn\vbc.rsp
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\roslyn\VBCSCompiler.exe
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\roslyn\VBCSCompiler.exe.config
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\Antlr3.Runtime.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\AutoMapper.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\BLL.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\DAL.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\EntityFramework.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\EntityFramework.SqlServer.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\Microsoft.AspNet.Identity.Core.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\Microsoft.Owin.Cors.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\Microsoft.Owin.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\Microsoft.Owin.Security.Cookies.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\Microsoft.Owin.Security.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\Microsoft.Owin.Security.Facebook.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\Microsoft.Owin.Security.Google.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\Microsoft.Owin.Security.OAuth.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\Microsoft.Owin.Security.Twitter.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\Microsoft.Web.Infrastructure.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\Newtonsoft.Json.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\Ninject.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\Owin.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\System.Diagnostics.DiagnosticSource.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\System.Net.Http.Formatting.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\System.ValueTuple.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\System.Web.Cors.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\System.Web.Helpers.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\System.Web.Http.Cors.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\System.Web.Http.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\System.Web.Http.Owin.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\System.Web.Http.WebHost.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\System.Web.Mvc.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\System.Web.Optimization.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\System.Web.Razor.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\System.Web.WebPages.Deployment.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\System.Web.WebPages.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\System.Web.WebPages.Razor.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\Util.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\WebGrease.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\BLL.pdb
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\DAL.pdb
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\DAL.dll.config
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\Util.pdb
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\AutoMapper.pdb
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\AutoMapper.xml
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\Microsoft.Owin.xml
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\Microsoft.Owin.Cors.xml
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\Ninject.xml
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\System.Net.Http.Formatting.xml
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\System.ValueTuple.xml
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\System.Web.Http.xml
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\System.Web.Http.Cors.xml
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\Newtonsoft.Json.xml
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\System.Web.Helpers.xml
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\System.Web.Http.WebHost.xml
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\System.Web.Mvc.xml
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\System.Web.Optimization.xml
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\System.Web.Razor.xml
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\System.Web.WebPages.xml
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\System.Web.WebPages.Deployment.xml
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\System.Web.WebPages.Razor.xml
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\Antlr3.Runtime.pdb
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\EntityFramework.xml
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\EntityFramework.SqlServer.xml
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\Microsoft.AspNet.Identity.Core.xml
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\Microsoft.Owin.Security.xml
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\Microsoft.Owin.Security.Facebook.xml
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\Microsoft.Owin.Security.Cookies.xml
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\Microsoft.Owin.Security.Google.xml
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\Microsoft.Owin.Security.Twitter.xml
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\Microsoft.Owin.Security.OAuth.xml
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\System.Web.Http.Owin.xml
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\System.Diagnostics.DiagnosticSource.xml
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\ru\Microsoft.Owin.resources.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\ru\System.Web.Http.resources.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\ru\System.Web.Helpers.resources.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\ru\System.Web.Mvc.resources.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\ru\System.Web.Optimization.resources.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\ru\System.Web.Razor.resources.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\ru\System.Web.WebPages.resources.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\ru\EntityFramework.resources.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\ru\EntityFramework.SqlServer.resources.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\bin\ru\System.Web.Http.Owin.resources.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\obj\Debug\Textagram.csprojAssemblyReference.cache
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\obj\Debug\Textagram.csproj.CoreCompileInputs.cache
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\obj\Debug\Textagram.csproj.CopyComplete
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\obj\Debug\Textagram.dll
+D:\EPAM\Project\Project18.04.19\Textagram\Textagram\obj\Debug\Textagram.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\Textagram.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\Textagram.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\roslyn\csc.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\roslyn\csc.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\roslyn\csc.rsp
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\roslyn\csi.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\roslyn\csi.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\roslyn\csi.rsp
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\roslyn\System.AppContext.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\roslyn\System.Console.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\roslyn\vbc.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\roslyn\vbc.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\roslyn\vbc.rsp
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\Antlr3.Runtime.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\AutoMapper.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\BLL.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\DAL.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\EntityFramework.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\Microsoft.Owin.Cors.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\Microsoft.Owin.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\Microsoft.Owin.Security.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\Newtonsoft.Json.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\Ninject.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\Owin.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\System.ValueTuple.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\System.Web.Cors.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\System.Web.Helpers.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\System.Web.Http.Cors.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\System.Web.Http.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\System.Web.Http.Owin.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\System.Web.Mvc.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\System.Web.Optimization.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\System.Web.Razor.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\System.Web.WebPages.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\Util.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\WebGrease.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\BLL.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\DAL.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\DAL.dll.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\Util.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\AutoMapper.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\AutoMapper.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\Microsoft.Owin.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\Microsoft.Owin.Cors.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\Ninject.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\System.ValueTuple.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\System.Web.Http.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\System.Web.Http.Cors.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\Newtonsoft.Json.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\System.Web.Helpers.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\System.Web.Mvc.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\System.Web.Optimization.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\System.Web.Razor.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\System.Web.WebPages.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\Antlr3.Runtime.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\EntityFramework.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\Microsoft.Owin.Security.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\System.Web.Http.Owin.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\ru\System.Web.Http.resources.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\ru\System.Web.Razor.resources.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\ru\EntityFramework.resources.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\bin\ru\System.Web.Http.Owin.resources.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\obj\Debug\Textagram.csprojAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\obj\Debug\Textagram.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\obj\Debug\Textagram.csproj.CopyComplete
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\obj\Debug\Textagram.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project18.04.19\ProjLast\Project18.04.19\Textagram\Textagram\obj\Debug\Textagram.pdb
