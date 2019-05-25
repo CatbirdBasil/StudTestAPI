@@ -1,0 +1,62 @@
+<div class="container">
+  <div class="row ">
+    <div class="col-md-3">
+      <div align="center">
+        <img alt="User Pic" src="{{currentUser?.details.imageSrc}}?s=196&d=mp"
+             class="img-responsive userpic" id="profile-image1">
+        <div>
+          <button (click)="editUser()" class="btn btn1 styledButton" color="primary" mdbBtn mdbWavesEffect
+                  style="width: 196px"> Edit profile
+          </button>
+
+        </div>
+      </div>
+    </div>
+
+
+    <div class="col-md-8">
+      <table borderless="true" mdbTable>
+        <h5 class="head">Account details</h5>
+        <tbody>
+        <tr mdbTableCol>
+          <td>
+            <h5>
+              <mdb-icon fas icon="user"></mdb-icon>
+              Username:
+            </h5>
+          </td>
+          <td>{{currentUser?.username}}</td>
+        </tr>
+        <tr mdbTableCol>
+          <td>
+            <h5>
+              <mdb-icon far icon="id-card"></mdb-icon>
+              First name:
+            </h5>
+          </td>
+          <td>{{currentUser?.details.firstName}}</td>
+        </tr>
+        <tr mdbTableCol>
+          <td>
+            <h5>
+              <mdb-icon fas icon="id-card"></mdb-icon>
+              Last name:
+            </h5>
+          </td>
+          <td>{{currentUser?.details.lastName}}</td>
+        </tr>
+        <tr mdbTableCol>
+          <td>
+            <h5>
+              <mdb-icon fas icon="envelope"></mdb-icon>
+              E-mail:
+            </h5>
+          </td>
+          <td>{{currentUser?.email}}</td>
+        </tr>
+        </tbody>
+      </table>
+    </div>
+
+  </div>
+</div>

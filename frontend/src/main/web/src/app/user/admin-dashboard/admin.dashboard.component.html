@@ -1,0 +1,109 @@
+<div class="grid-container">
+  <mat-grid-list cols="2" rowHeight="350px">
+    <mat-grid-tile [colspan]="1" [rowspan]="1">
+      <mat-card class="dashboard-card">
+        <mat-card-header>
+          <mat-card-title>
+            Users per year
+          </mat-card-title>
+        </mat-card-header>
+        <mat-card-content class="dashboard-card-content">
+          <div class="chart">
+            <canvas [chartType]="bar"
+                    [colors]="barColors"
+                    [datasets]="barDatasets"
+                    [labels]="barLabels"
+                    [legend]="true"
+                    [options]="barOptions"
+                    mdbChart>
+            </canvas>
+          </div>
+        </mat-card-content>
+      </mat-card>
+    </mat-grid-tile>
+    <mat-grid-tile [colspan]="1" [rowspan]="2">
+      <mat-card class="dashboard-card">
+        <mat-card-header>
+          <mat-card-title>
+            Services distibution
+          </mat-card-title>
+        </mat-card-header>
+        <mat-card-content class="dashboard-card-content">
+          <div class="chart">
+            <canvas [chartType]="doughnut"
+                    [colors]="doughnutColors"
+                    [datasets]="doughnutDatasets"
+                    [labels]="doughnutLabels"
+                    [legend]="true"
+                    [options]="doughnutOptions"
+                    mdbChart>
+            </canvas>
+          </div>
+        </mat-card-content>
+      </mat-card>
+    </mat-grid-tile>
+    <mat-grid-tile [colspan]="1" [rowspan]="1">
+      <mat-card class="dashboard-card">
+        <mat-card-header>
+          <mat-card-title>
+            Carriers per year
+          </mat-card-title>
+        </mat-card-header>
+        <mat-card-content class="dashboard-card-content">
+          <div class="chart">
+            <canvas [chartType]="line"
+                    [colors]="lineColors"
+                    [datasets]="lineDatasets"
+                    [labels]="lineLabels"
+                    [legend]="true"
+                    [options]="lineOptions"
+                    mdbChart>
+            </canvas>
+          </div>
+        </mat-card-content>
+      </mat-card>
+    </mat-grid-tile>
+    <mat-grid-tile [colspan]="2" [rowspan]="2">
+      <mat-card class="dashboard-card">
+        <mat-card-header>
+          <mat-card-title>
+            Trips per country
+          </mat-card-title>
+        </mat-card-header>
+        <mat-card-content class="dashboard-card-content">
+          <div class="chart">
+            <canvas mdbChart
+                    [chartType]="horizontal"
+                    [datasets]="horizontalDatasets"
+                    [labels]="horizontalLabels"
+                    [colors]="horizontalColors"
+                    [options]="horizontalOptions"
+                    [legend]="true">
+            </canvas>
+          </div>
+        </mat-card-content>
+      </mat-card>
+    </mat-grid-tile>
+    <mat-grid-tile [colspan]="1" [rowspan]="2" class="offset-3">
+      <mat-card class="dashboard-card">
+        <mat-card-header>
+          <mat-card-title>
+            Costs per interval
+          </mat-card-title>
+        </mat-card-header>
+        <mat-card-content class="dashboard-card-content">
+          <div class="chart">
+            <canvas mdbChart
+                    [chartType]="pie"
+                    [datasets]="pieDatasets"
+                    [labels]="pieLabels"
+                    [colors]="pieColors"
+                    [options]="pieOptions"
+                    [legend]="true">
+            </canvas>
+          </div>
+        </mat-card-content>
+      </mat-card>
+    </mat-grid-tile>
+  </mat-grid-list>
+</div>

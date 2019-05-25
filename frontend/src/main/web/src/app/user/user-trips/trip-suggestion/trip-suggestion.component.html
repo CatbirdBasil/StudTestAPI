@@ -1,0 +1,106 @@
+<div [formGroup]="group">
+
+  <div class="form-row">
+
+    <div class="form-group col-md-12">
+      <label for="titleInput">Title</label>
+      <input [ngClass]="{ 'is-invalid': submitted && group.controls.name.errors }"
+             class="form-control"
+             formControlName="name"
+             id="titleInput"
+             placeholder="Suggestion title"
+             type="text"/>
+
+      <div *ngIf="submitted && group.controls.name.errors" class="invalid-input">
+        <div *ngIf="group.controls.name.errors.required">Field is required</div>
+        <div *ngIf="group.controls.name.errors.minlength">Must be at least 2 characters long</div>
+        <div *ngIf="group.controls.name.errors.maxlength">Must be less than 64 characters long</div>
+      </div>
+
+
+    </div>
+
+  </div>
+
+  <div class="form-row">
+
+    <div class="col-md-12">
+      <label for="inputSuggestionDescription">Description</label>
+      <textarea [ngClass]="{ 'is-invalid': submitted && group.controls.description.errors }"
+                class="form-control"
+                formControlName="description"
+                id="inputSuggestionDescription"
+                placeholder="Put your suggestion description here"
+                rows="3"></textarea>
+
+      <div *ngIf="submitted && group.controls.description.errors" class="invalid-input">
+        <div *ngIf="group.controls.description.errors.maxLength">Must be less than 2048 symbols</div>
+      </div>
+    </div>
+
+  </div>
+
+  <div *ngFor="let service of group.controls.services['controls']; let j=index">
+
+    <div class="form-row">
+
+      <div class="offset-1"></div>
+
+      <div class="card rounded-bottom col-md-10 mt-3">
+
+        <div class="card-block px-3 pt-2">
+
+          <span (click)="removeService(j)" *ngIf="group.controls.services.controls.length > 1"
+                class="fas fa-times float-right"
+                style="cursor: pointer"></span>
+
+          <app-suggestion-service [group]="service"
+                                  [availableServices]="availableServices"
+                                  class="col-md-12"></app-suggestion-service>
+
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <div class="form-row">
+
+    <div class="offset-1 mr-2"></div>
+
+    <button (click)="addService()" class="btn float-left btn-sm mx-1 mt-3 col-md-auto styledButton"
+            type="button" mdbBtn color="primary" mdbWavesEffect>
+      Add new service
+    </button>
+
+    <button (click)="addExistingService()" class="btn float-left btn-sm mx-1 mt-3 col-md-auto styledButton"
+            *ngIf="availableServices != []" color="primary" mdbBtn mdbWavesEffect
+            type="button">
+      Add from existing service
+    </button>
+
+  </div>
+
+  <div class="form-row">
+
+    <div class="offset-8"></div>
+    <div class="col-md-4">
+
+      <div class="form-row">
+
+        <div class="form-group col-md-12">
+          <label for="inputBasePrice">Overall suggestion price</label>
+          <input class="form-control"
+                 id="inputBasePrice"
+                 readonly
+                 type="text"
+                 [value]="price">
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</div>

@@ -214,6 +214,7 @@
         <Compile Include="Models\TestGroupModel.cs"/>
         <Compile Include="Models\TestHistoryModel.cs"/>
         <Compile Include="Models\TestModel.cs"/>
+        <Compile Include="Models\TestStatisticsModel.cs"/>
         <Compile Include="Models\UserModel.cs"/>
         <Compile Include="Properties\AssemblyInfo.cs"/>
         <Compile Include="Providers\ApplicationOAuthProvider.cs"/>
@@ -286,9 +287,9 @@
         <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))"/>
     </Target>
     <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
-         Other similar extension points exist, see Microsoft.Common.targets.
-    <Target Name="BeforeBuild">
-    </Target>
-    <Target Name="AfterBuild">
-    </Target> -->
+           Other similar extension points exist, see Microsoft.Common.targets.
+      <Target Name="BeforeBuild">
+      </Target>
+      <Target Name="AfterBuild">
+      </Target> -->
 </Project>

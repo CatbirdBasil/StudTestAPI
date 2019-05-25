@@ -10,7 +10,7 @@ namespace WEB.Models
 
         [Required] public string Text { get; set; }
 
-        public bool? IsCorrect { get; set; }
+        public bool IsCorrect { get; set; }
         //public QuestionModel Question { get; set; }
     }
 }

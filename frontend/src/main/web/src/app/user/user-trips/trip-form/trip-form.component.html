@@ -1,0 +1,297 @@
+<div class="container mb-4">
+  <div class="row pt-0 mt-0">
+    <div class="offset-md-1"></div>
+    <div class="col-md-10">
+      ​
+      <h2 *ngIf="!trip" align="center" class="mb-0">Add trip</h2>
+      <h2 *ngIf="trip" align="center" class="mb-0">Edit trip</h2>
+
+      <div *ngIf="error" class="alert alert-danger mt-3" align="center">{{error}}</div>
+      ​
+      <form (ngSubmit)="openSave()" [formGroup]="tripForm" class="pt-0 mt-0">
+        ​
+        <div class="form-row">
+
+          <div class="form-group col-md-12">
+            <label for="tripTitle">Title</label>
+            <input type="text"
+                   class="form-control"
+                   formControlName="name"
+                   id="tripTitle"
+                   placeholder="Your trip title"
+                   [ngClass]="{ 'is-invalid': submitted && tripForm.controls.name.errors }"/>
+
+            <div *ngIf="submitted && tripForm.controls.name.errors" class="invalid-input">
+              <div *ngIf="tripForm.controls.name.errors.required">Field is required</div>
+              <div *ngIf="tripForm.controls.name.errors.minlength">Title must be at least 3 characters long</div>
+              <div *ngIf="tripForm.controls.name.errors.maxlength">Title must be less than 64 characters long</div>
+            </div>
+
+          </div>
+
+        </div>
+
+        <div class="form-row">
+
+          <div class="col-md-6 px-1" formGroupName="location">
+
+            <div class="form-row" formGroupName="country">
+
+              <div class="form-group col-md-12">
+
+                <label for="inputCountry">Dispatch location</label>
+                <ng-select formControlName="name"
+                           [items]="countries"
+                           [loading]="countriesLoading"
+                           bindLabel="name"
+                           bindValue="name"
+                           placeholder="Dispatch location country"
+                           id="inputCountry"
+                           [ngClass]="{ 'invalid-select': submitted && locationCountryControls.name.errors}"
+                           #myNgSelect>
+                </ng-select>
+
+                <div *ngIf="submitted && locationCountryControls.name.errors"
+                     class="invalid-input">
+                  <div *ngIf="locationCountryControls.name.errors.required">Field is
+                    required
+                  </div>
+                </div>
+
+              </div>
+
+            </div>
+
+            <div class="form-row">
+
+              <div class="form-group col-md-12">
+
+                <ng-select formControlName="name"
+                           [items]="locationAvailableCities"
+                           [loading]="locationCitiesLoading"
+                           bindLabel="name"
+                           bindValue="name"
+                           placeholder="Dispatch location city"
+                           id="inputCity"
+                           [ngClass]="{ 'invalid-select': submitted && locationControls.name.errors }"
+                           #myNgSelectComponent>
+                </ng-select>
+
+                <div *ngIf="submitted && locationControls.name.errors" class="invalid-input">
+                  <div *ngIf=" locationControls.name.errors.required">Field is
+                    required
+                  </div>
+                </div>
+
+              </div>
+            </div>
+
+          </div>
+
+          <div class="col-md-6 px-1 float-right" formGroupName="destination">
+
+            <div class="form-row" formGroupName="country">
+
+              <div class="form-group col-md-12">
+
+                <label for="inputCountryDest">Destination location</label>
+
+                <ng-select formControlName="name"
+                           [items]="countries"
+                           [loading]="countriesLoading"
+                           bindLabel="name"
+                           bindValue="name"
+                           placeholder="Destination location country"
+                           id="inputCountryDest"
+                           [ngClass]="{ 'invalid-select': submitted && destinationCountryControls.name.errors }"
+                           #myNgSelect>
+                </ng-select>
+
+                <div *ngIf="submitted && destinationCountryControls.name.errors"
+                     class="invalid-input">
+                  <div *ngIf="destinationCountryControls.name.errors.required">Field is
+                    required
+                  </div>
+                </div>
+
+              </div>
+
+
+            </div>
+
+            <div class="form-row">
+
+              <div class="form-group col-md-12">
+
+                <ng-select formControlName="name"
+                           [items]="destinationAvailableCities"
+                           [loading]="destinationCitiesLoading"
+                           bindLabel="name"
+                           bindValue="name"
+                           placeholder="Destination location city"
+                           id="inputCityDest"
+                           [ngClass]="{ 'invalid-select': submitted && destinationControls.name.errors }"
+                           #myNgSelectComponent>
+                </ng-select>
+
+                <div *ngIf="submitted && destinationControls.name.errors" class="invalid-input">
+                  <div *ngIf="destinationControls.name.errors.required">Field is
+                    required
+                  </div>
+                </div>
+
+              </div>
+
+
+
+            </div>
+
+          </div>
+        </div>
+
+        <div class="form-row">
+
+          <div class="col-md-6 form-group">
+            <label for="inputGroupFile">Your trip picture</label>
+
+            <div class="input-group">
+              <div class="custom-file" id="inputFileDiv">
+                <input type="file" class="custom-file-input" id="inputGroupFile"
+                       aria-describedby="inputGroupFileAddon01" (change)="onFileChanged($event)">
+                <label id="labelFile" class="custom-file-label cutText"
+                       for="inputGroupFile">{{currentPictureInputPlaceholder}}</label>
+              </div>
+            </div>
+          </div>
+
+          <div class="form-group col-md-2">
+            <label for="inputNumberOfPeople">Number of people</label>
+            <input type="number"
+                   min="0"
+                   max="10"
+                   class="form-control"
+                   id="inputNumberOfPeople"
+                   placeholder="Amount of people this trip supports"
+                   formControlName="numberOfPeople"
+                   [ngClass]="{ 'is-invalid': submitted && tripForm.controls.numberOfPeople.errors }"
+            />
+
+            <div *ngIf="submitted && tripForm.controls.numberOfPeople.errors" class="invalid-input">
+              <div *ngIf="tripForm.controls.numberOfPeople.errors.required">Field is required</div>
+              <div *ngIf="tripForm.controls.numberOfPeople.errors.min">Must be at least 1</div>
+              <div *ngIf="tripForm.controls.numberOfPeople.errors.max">10 clients max</div>
+            </div>
+          </div>
+
+          <div class="form-group col-md-2">
+            <label for="inputPrice">Price</label>
+            <input type="number"
+                   min="0"
+                   max="10000000"
+                   class="form-control"
+                   id="inputPrice"
+                   placeholder="Price of your trip"
+                   formControlName="price"
+                   [ngClass]="{ 'is-invalid': submitted && tripForm.controls.price.errors }"
+            />
+
+            <div *ngIf="submitted && tripForm.controls.price.errors" class="invalid-input">
+              <div *ngIf="tripForm.controls.price.errors.required">Field is required</div>
+              <div *ngIf="tripForm.controls.price.errors.min">Must be at least 1$</div>
+              <div *ngIf="tripForm.controls.price.errors.max">10000000$ limit exceeded</div>
+            </div>
+          </div>
+
+          <div class="col-md-2 form-group align-items-center">
+
+            <label for="returnDiv">Type</label>
+            <!-- Default unchecked -->
+            <div class="custom-control custom-radio" id="returnDiv">
+              <input formControlName="oneWay" type="radio" class="custom-control-input" id="return" [value]="false"
+                     checked>
+              <label class="custom-control-label" for="return">Return</label>
+            </div>
+
+            <!-- Default checked -->
+            <div class="custom-control custom-radio">
+              <input formControlName="oneWay" type="radio" class="custom-control-input" id="one-way" [value]="true">
+              <label class="custom-control-label" for="one-way">One-way</label>
+            </div>
+          </div>
+
+        </div>
+
+        <div class="form-row">
+
+          <div class="form-group col-md-12">
+            <label for="inputDescription">Description</label>
+            <textarea class="form-control"
+                      id="inputDescription"
+                      placeholder="Put your trip description here"
+                      formControlName="description"
+                      rows="7"
+                      [ngClass]="{ 'is-invalid': submitted && tripForm.controls.description.errors }"></textarea>
+
+            <div *ngIf="submitted && tripForm.controls.description.errors" class="invalid-input">
+              <div *ngIf="tripForm.controls.description.errors.maxLength">Must be less than 2048 symbols</div>
+            </div>
+          </div>
+
+        </div>
+
+
+        <div formArrayName="suggestions">
+          <div *ngFor="let suggestion of suggestionControls; let i=index">
+
+            <div class="card mt-3">
+
+              <div class="card-header">
+                <span>Suggestion {{i + 1}}</span>
+                <span style="cursor: pointer" class="fas fa-times float-right" (click)="removeSuggestion(i)"></span>
+              </div>
+
+              <div class="card-body rounded-bottom p-3" [formGroupName]="i">
+
+                <app-trip-suggestion [group]="suggestion"
+                                     [availableServices]="availableServices"
+                                     [tripPrice]="tripForm.get('price').value"></app-trip-suggestion>
+              </div>
+
+            </div>
+          </div>
+        </div>
+
+        <div class="mt-2 col-md-12" style="height: 50px">
+          <button (click)="addSuggestion()" class="btn btn-primary float-left btn-sm styledButton" color="primary"
+                  mdbBtn
+                  mdbWavesEffect type="button">
+            Add new suggestion
+          </button>
+        </div>
+
+        <div class="row">
+
+          <div class="offset-md-6"></div>
+
+          <div class="col-md-3 my-auto">
+            <button type="button" (click)="draftSave()" class="btn float-right btn-lg btn-block styledButton" mdbBtn
+                    *ngIf="canBeDrafted" color="success" mdbWavesEffect>
+              Save Draft
+              <i *ngIf="draftLoading" class="fa fa-spinner fa-spin"></i>
+            </button>
+          </div>
+
+          <div class="col-md-3 my-auto">
+            <button type="submit" class="btn float-right btn-lg btn-block styledButton" mdbBtn color="success"
+                    mdbWavesEffect>
+              Submit
+              <i *ngIf="openLoading" class="fa fa-spinner fa-spin"></i>
+            </button>
+          </div>
+        </div>
+
+      </form>
+    </div>
+  </div>
+  <div class="offset-3"></div>
+</div>

@@ -1,0 +1,111 @@
+<div [formGroup]="group">
+
+  <div *ngIf="group.controls.existingService.value != null" class="form-row">
+    <div class="col-md-12 mb-3">
+      <label for="serviceControl">Service template</label>
+      <ng-select [items]="availableServices"
+                 bindLabel="name"
+                 formControlName="existingService"
+                 id="serviceControl">
+      </ng-select>
+    </div>
+  </div>
+
+  <div class="form-row">
+
+    <div class="form-group col-md-9">
+      <label>Service title</label>
+      <input [ngClass]="{ 'is-invalid': submitted && group.controls.name.errors }"
+             class="form-control"
+             formControlName="name"
+             placeholder="Your service title"
+             type="text"/>
+
+      <div *ngIf="submitted && group.controls.name.errors" class="invalid-input">
+        <div *ngIf="group.controls.name.errors.required">Field is required</div>
+        <div *ngIf="group.controls.name.errors.minlength">Title must be at least 3 characters long</div>
+        <div *ngIf="group.controls.name.errors.maxlength">Title must be less than 64 characters long</div>
+      </div>
+
+    </div>
+
+    <div class="form-group col-md-3">
+      <label for="inputPrice">Price</label>
+      <input [ngClass]="{ 'is-invalid': submitted && group.controls.price.errors }"
+             formControlName="price"
+             class="form-control"
+             id="inputPrice"
+             placeholder="Price of your trip"
+             min="0"
+             max="10000000"
+             type="number"/>
+
+      <div *ngIf="submitted && group.controls.price.errors" class="invalid-input">
+        <div *ngIf="group.controls.price.errors.required">Field is required</div>
+        <div *ngIf="group.controls.price.errors.min">At least 1$</div>
+        <div *ngIf="group.controls.price.errors.max">10000000$ limit exceeded</div>
+      </div>
+
+    </div>
+
+  </div>
+
+  <!--<div class="form-row">-->
+
+  <!--<div class="form-group col-md-6">-->
+  <!--<label for="inputNumberOfPeople">Number of people</label>-->
+  <!--<input [ngClass]="{ 'is-invalid': submitted && group.controls.numberOfPeople.errors }"-->
+  <!--formControlName="numberOfPeople"-->
+  <!--max="10"-->
+  <!--class="form-control"-->
+  <!--id="inputNumberOfPeople"-->
+  <!--placeholder="Amount of people this trip supports"-->
+  <!--min="0"-->
+  <!--type="number"/>-->
+
+  <!--<div *ngIf="submitted && group.controls.numberOfPeople.errors" class="invalid-input">-->
+  <!--<div *ngIf="group.controls.numberOfPeople.errors.required">Field is required</div>-->
+  <!--<div *ngIf="group.controls.numberOfPeople.errors.min">At least 1 client</div>-->
+  <!--<div *ngIf="group.controls.numberOfPeople.errors.max">Not more then 10 clients</div>-->
+  <!--</div>-->
+
+  <!--</div>-->
+
+  <!--<div class="form-group col-md-6">-->
+  <!--<label for="inputPrice">Price</label>-->
+  <!--<input [ngClass]="{ 'is-invalid': submitted && group.controls.price.errors }"-->
+  <!--formControlName="price"-->
+  <!--class="form-control"-->
+  <!--id="inputPrice"-->
+  <!--placeholder="Price of your trip"-->
+  <!--min="0"-->
+  <!--type="number"/>-->
+
+  <!--<div *ngIf="submitted && group.controls.price.errors" class="invalid-input">-->
+  <!--<div *ngIf="group.controls.price.errors.required">Field is required</div>-->
+  <!--<div *ngIf="group.controls.price.errors.min">At least 1 cu</div>-->
+  <!--</div>-->
+
+  <!--</div>-->
+
+  <!--</div>-->
+
+  <!--<div class="form-row">-->
+
+  <!--<div class="form-group col-md-12">-->
+  <!--<label for="inputServiceDescription">Description</label>-->
+  <!--<textarea [ngClass]="{ 'is-invalid': submitted && group.controls.description.errors }"-->
+  <!--id="inputServiceDescription"-->
+  <!--placeholder="Put your service description here"-->
+  <!--class="form-control"-->
+  <!--formControlName="description"-->
+  <!--rows="2"></textarea>-->
+
+  <!--<div *ngIf="submitted && group.controls.description.errors" class="invalid-input">-->
+  <!--<div *ngIf="group.controls.description.errors.maxLength">Must be less than 2048 symbols</div>-->
+  <!--</div>-->
+  <!--</div>-->
+
+  <!--</div>-->
+
+</div>

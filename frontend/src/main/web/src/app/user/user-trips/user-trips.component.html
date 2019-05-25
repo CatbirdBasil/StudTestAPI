@@ -1,0 +1,45 @@
+<div class="container">
+
+  <div *ngIf="showTable">
+
+    <div *ngIf="isProvider" class="row">
+
+      <button (click)="switchMode()" class="btn float-left btn-sm mx-5 mb-3 styledButton" color="info" mdbBtn
+              mdbWavesEffect type="button">
+        Add new trip
+      </button>
+    </div>
+
+    <!-- <div class="row">
+      <div class="col-md-12 pb-3">
+        <data-table [records]="trips"
+                    [tableName]="tableName"
+                    [editable]="editable"
+                    [deleting]="deleting"
+                    [url]="url"
+                    [settings]="tripsTableSettings">
+        </data-table>
+      </div>
+    </div> -->
+
+  </div>
+
+  <div *ngIf="!showTable">
+
+    <div class="row">
+      <button (click)="switchMode()" class="btn float-left btn-sm mx-5 mb-3 styledButton" color="info" mdbBtn
+              mdbWavesEffect type="button">
+        Back
+      </button>
+    </div>
+
+    <div class="row">
+      <div class="col-md-12">
+        <app-trip-form></app-trip-form>
+      </div>
+    </div>
+
+  </div>
+
+</div>
+

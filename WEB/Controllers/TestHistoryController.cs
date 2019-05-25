@@ -63,18 +63,18 @@ namespace WEB.Controllers
 //        [Route("~/api/history/test/statistic/{id}")]
         public IHttpActionResult GetTestHistoryStatistics(int id)
         {
-            TestHistoryDTO testHistory;
+            TestStatisticsDTO testStatisticsDto;
+
             try
             {
-                testHistory = _testHistoryService.GetById(id);
+                testStatisticsDto = _testHistoryService.GetTestHistoryStatistics(id);
             }
             catch (Exception ex)
             {
                 return InternalServerError(ex);
             }
 
-            Mapper.Map<TestHistoryDTO, TestHistoryModel>(testHistory);
-            return Ok(Mapper.Map<TestHistoryDTO, TestHistoryModel>(testHistory));
+            return Ok(Mapper.Map<TestStatisticsDTO, TestStatisticsModel>(testStatisticsDto));
         }
 
         [Route("")]

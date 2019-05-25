@@ -1,0 +1,151 @@
+
+.container, .grid-container {
+  padding: 0;
+  border-radius: 5px;
+  margin-top: 20px;
+  border: 30px solid #E7E6F7;
+  background-color: #E7E6F7;
+  height: auto;
+}
+
+.card-content {
+  margin-top: 10px;
+  margin-left: 50px;
+  padding: 5px;
+}
+
+.content-width {
+  width: 100%;
+}
+
+.headerCard {
+  border-radius: 0 5px 5px 0;
+  //border-radius: 15px !important;
+}
+
+.roundedCard {
+  border-radius: 5px !important;
+}
+
+.googleMap {
+  border-radius: 5px !important;
+  -webkit-transform: translate3d(0px, 0px, 0px);
+  -webkit-mask-image: -webkit-radial-gradient(white, black);
+}
+
+
+.buyButton {
+  bottom: 0;
+}
+
+.row {
+  margin: 0;
+}
+
+.myHeaderText {
+  //font-size: 2.5vw;
+  font-size: 30px;
+}
+
+.myText {
+  font-size: 25px !important;
+}
+
+.descriptionText {
+  font-size: 20px;
+}
+
+.right {
+  float: right;
+  background-color: #2E294E !important;
+}
+
+div {
+  padding: 0;
+}
+
+.mainImage {
+  border-bottom-left-radius: 5px !important;
+  border-top-left-radius: 5px !important;
+  min-height: 28em;
+  width: 100%;
+  //border-radius: 15px;
+}
+
+
+.star {
+  position: relative;
+  display: inline-block;
+  font-size: 3rem;
+  color: #d3d3d3;
+}
+
+.full {
+  color: yellow;
+}
+
+.half {
+  position: absolute;
+  display: inline-block;
+  overflow: hidden;
+  color: yellow;
+}
+
+.discountedPrice {
+  color: green;
+}
+
+.oldPrice {
+  font-size: 15px;
+  color: #7f7f7f;
+}
+
+.smallerText {
+  font-size: 11px;
+}
+
+.greyComment {
+  background-color: #F7F7F7;
+}
+
+.commentSection {
+  padding-bottom: 0;
+}
+
+.commentFooter {
+  border-bottom-right-radius: 5px !important;
+  border-bottom-left-radius: 5px !important;
+}
+
+.star {
+  position: relative;
+  display: inline-block;
+  font-size: 3rem;
+  color: #d3d3d3;
+}
+
+.smallerStar {
+  position: relative;
+  display: inline-block;
+  font-size: 2rem;
+  color: #d3d3d3;
+}
+
+.full {
+  color: #2E294E;
+}
+
+.half {
+  position: absolute;
+  display: inline-block;
+  overflow: hidden;
+  color: #2E294E;
+}
+
+//.userPic {
+//  width: 35px;
+//  height: 35px;
+//  border: 1px solid #2E294E;
+//  border-radius: 50%;
+//  cursor: pointer;
+//}

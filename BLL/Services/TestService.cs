@@ -26,7 +26,7 @@ namespace BLL.Services
 
         public IEnumerable<TestDTO> GetTestsByUserId(string id)
         {
-            IEnumerable<Test> tests = _database.Tests.GetAll();
+            IEnumerable<Test> tests = _database.Tests.Find((test) => test.UserId == id);
 
             return Mapper.Map<IEnumerable<Test>, IEnumerable<TestDTO>>(tests);
         }
